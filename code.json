@@ -30,5 +30,9 @@
   "WallHack": {
     "Scan": "f1 ae 47 81 3f 00 1a b7 ee dc 3a 9f ed 30",
     "Replace": "3f ae 47 81 3f 00 1a b7 ee dc 3a 9f ed 30"
+  },
+  "VskSwitch": {
+    "Scan": "7F 00 00 00 00 00 00 00 00 00 00 3F 00 00 80 3E 00 00 00 00",
+    "Replace": "7F 00 00 00 00 00 00 00 00 00 00 3F 00 00 80 3E 00 00 00 01"
   }
 }
