@@ -24,8 +24,8 @@
     "Replace": "02 2B 9B 3C 02 2B 07"
   },
   "NoRecoil": {
-    "Scan": "03 0A 9F ED 10 0A 01 EE 00 0A 81 EE 10 0A 10 EE 10 8C BD E8 00 00 7A 44 F0",
-    "Replace": "03 0A 9F ED 10 0A 01 EE 00 0A 81 EE 10 0A 10 EE 10 8C BD E8 00 00 00 00 F0"
+    "Scan": "7A 44 00 00 80 7F 10",
+    "Replace": "40 41 00 00 80 7F 10"
   },
   "WallHack": {
     "Scan": "f1 ae 47 81 3f 00 1a b7 ee dc 3a 9f ed 30",
